@@ -1,5 +1,6 @@
 # big-screen
-使用Echarts实现大屏可视化
+大屏数据可视化
+Vue + Vite + Echarts + tailwindcss
 
 实现了中国地图，柱状图，雷达图，环形图，关系图
 
